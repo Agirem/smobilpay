@@ -1,0 +1,5 @@
+{
+    "require": {
+      "maviance/smobilpay-php": "*"
+    }
+  }
